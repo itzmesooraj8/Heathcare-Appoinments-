@@ -1,6 +1,7 @@
 # My Fullstack Application
 
 This is a fullstack application that consists of a backend built with Node.js and Express, and a frontend built with React.
+(This contains few/multiple errors..as this was my first porject)..
 
 ## Project Structure
 
